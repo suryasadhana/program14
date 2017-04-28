@@ -7,7 +7,7 @@ int num,m=30,n=40;
 printf("print odd number");
 for(num=m;num<=n;num++)
 {
-if(num%2==1)
+if(num%2==0)
 {
 printf("%d",num);
 }
